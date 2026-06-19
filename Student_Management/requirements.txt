@@ -1,0 +1,6 @@
+bcrypt
+Pillow
+reportlab
+openpyxl
+pandas
+python-dotenv
